@@ -9,3 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV [here](https://isaacmeza.github.io/personal//files/genericity_garcia_falset.pdf)
