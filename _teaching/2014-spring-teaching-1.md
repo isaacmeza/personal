@@ -4,6 +4,5 @@ collection: teaching
 type: "Undergraduate course"
 permalink: 
 venue: "UC Berkeley"
-date:
+date: 2014-01-01
 ---
-
