@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student in the IEOR department at UC Berkeley. This site is currently under construction.
+I am a second year PhD student in the IEOR department at UC Berkeley. 
