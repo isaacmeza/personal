@@ -19,6 +19,6 @@ My research interests are located in the intersection of Probability & Statistic
 
 ## Thesis
 
-Bachelor Thesis in Economics :<sub> [Confidence region via the RWP function: an application to synthetic control methods](https://isaacmeza.github.io/personal//files/econ_thesis.pdf)
+#### Bachelor Thesis in Economics :<sub> [Confidence region via the RWP function: an application to synthetic control methods](https://isaacmeza.github.io/personal//files/econ_thesis.pdf)
 
-Bachelor Thesis in Mathematics (in spanish) :<sub> [Geometry of Banach Spaces and Fixed Point Theory](https://isaacmeza.github.io/personal//files/mathematics_thesis_c.pdf)
+#### Bachelor Thesis in Mathematics (in spanish) :<sub> [Geometry of Banach Spaces and Fixed Point Theory](https://isaacmeza.github.io/personal//files/mathematics_thesis_c.pdf)
