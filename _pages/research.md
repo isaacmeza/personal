@@ -14,6 +14,6 @@ My research interests are located in the intersection of Probability & Statistic
 
 {% include base_path %}
 
-{% for post in site.research reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
