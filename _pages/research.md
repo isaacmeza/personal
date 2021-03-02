@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research interests are in the intersection of Probability & Statistics and Multi-arm bandits, as well as Machine Learning methods in Causal Inference.
+My research interests are located in the intersection of Probability & Statistics and Multi-arm bandits, as well as Machine Learning Methods in Causal Inference.
 
 
 {% if author.googlescholar %}
