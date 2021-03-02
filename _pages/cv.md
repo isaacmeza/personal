@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 You can find my CV [here](https://isaacmeza.github.io/personal//files/Professional_CV.pdf)
+
+{% include base_path %}
