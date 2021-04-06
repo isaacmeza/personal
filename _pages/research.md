@@ -15,7 +15,7 @@ My research interests are located in the intersection of Probability & Statistic
 
 #### [Genericity of spaces with the extended García-Falset coefficient: $R(t,X)<1+t$ for some $t>0$](https://isaacmeza.github.io/personal//files/genericity_garcia_falset.pdf) <sub> Joint work with César Luis García and, Carlos Bosch Giral.  
 
-#### [Inference in SCM using the RWP function](https://isaacmeza.github.io/personal//files/scm_inference.pdf)
+#### [Inference in Synthetic Control Methods using the Robust Wasserstein Profile function](https://isaacmeza.github.io/personal//files/scm_inference.pdf)
 
 ## Thesis
 
