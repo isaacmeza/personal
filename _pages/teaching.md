@@ -13,7 +13,7 @@ IEOR 166 - UC Berkeley (Spring 2021)
 IEOR 263A - UC Berkeley (Fall 200) 
 
 
-### Intermediate macroeconomics 
+### Intermediate Macroeconomics 
 ITAM (2014-2019) 
 
 
