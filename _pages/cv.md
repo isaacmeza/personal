@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 
-You can find my CV [here](https://isaacmeza.github.io/personal//files/Professional_CV.pdf)
+You can find my CV [here](https://isaacmeza.github.io/personal//files/cv_isaac_meza.pdf)
 
 {% include base_path %}
