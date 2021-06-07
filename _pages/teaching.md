@@ -5,6 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Introduction to Economics
+Econ 1 - UC Berkeley (Summer 2021)
+
+### Macroeconomic Analysis for Business Decisions
+UGBA 101B -  Walter A. Haas School of Business (Summer 2021)
+
+
 ### Decision Analytics
 IEOR 166 - UC Berkeley (Spring 2021) 
 
