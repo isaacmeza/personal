@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a MSc student in the IEOR department at UC Berkeley. 
+I am a Research Assistant at the Center of Economic Research (CIE) at ITAM. I hold a MSc in Industrial Engineering and Operations Research from UC Berkeley (2021), a B.S. in Economics (2019) &  a B.S. in Applied Mathematics (2018) from ITAM. 
