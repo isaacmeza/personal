@@ -29,7 +29,7 @@ My research interests are located in the intersection of Empirical Economics, Ap
 ## Technical notes/Surveys
   
   
-#### [Bandits and online optimization ininfinitespaces. UMD spaces are UMD-learnable.](https://isaacmeza.github.io/personal//files/umd_umd.pdf)
+#### [Bandits and online optimization in infinite spaces. UMD spaces are UMD-learnable.](https://isaacmeza.github.io/personal//files/umd_umd.pdf)
 
 #### [The Cameron-Martin Theorem.](https://isaacmeza.github.io/personal//files/cameron_martin.pdf)  
   
