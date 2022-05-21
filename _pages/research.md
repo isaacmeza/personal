@@ -32,6 +32,16 @@ My research interests are located in the intersection of Empirical Economics, Ap
 #### [Bandits and online optimization in infinite spaces. UMD spaces are UMD-learnable.](https://isaacmeza.github.io/personal//files/umd_umd.pdf)
 
 #### [The Cameron-Martin Theorem.](https://isaacmeza.github.io/personal//files/cameron_martin.pdf)  
+ 
+ 
+ ## Software
+ 
+ #### [fan_park](https://github.com/isaacmeza/fan_park) : Stata implementations of nonparametric estimators of sharp bounds on the distribution of treatment effects of a binary treatment developed in [Fan, and Park (2009)](https://doi.org/10.1017/S0266466609990168)
+ 
+ ```
+net install fan_park, from(https://raw.githubusercontent.com/isaacmeza/fan_park/main) replace
+```
+ 
   
   
   
