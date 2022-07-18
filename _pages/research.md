@@ -36,7 +36,14 @@ My research interests are located in the intersection of Empirical Economics, Ap
  
 ## Software
  
-#### [fan_park](https://github.com/isaacmeza/fan_park) : Stata implementation of sharp bounds on the distribution of treatment effects of a binary treatment developed in [Fan, and Park (2009)](https://doi.org/10.1017/S0266466609990168)
+#### [tot_tut](https://github.com/isaacmeza/tot_tut) : Stata implementation for estimation of ToT & TuT using the design in "The limits of self-commitment and private paternalism" [DiTraglia, McIntosh, Meza, Seira, Sadka](https://isaacmeza.github.io/personal//files/donde.pdf)
+ 
+ 
+```
+net install tot_tut, from(https://raw.githubusercontent.com/isaacmeza/tot_tut/main) replace
+```
+ 
+ #### [fan_park](https://github.com/isaacmeza/fan_park) : Stata implementation of sharp bounds on the distribution of treatment effects of a binary treatment developed in [Fan, and Park (2009)](https://doi.org/10.1017/S0266466609990168)
  
  
 ```
