@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Isaac Meza"
 title_separator          : "-"
 name                     : &name "Isaac Meza"
-description              : &description "Research Assistant at CIE"
+description              : &description PhD student in Economics"
 url                      : https://isaacmeza.github.io/personal/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -83,11 +83,11 @@ author:
   name             : "Isaac Meza"
   avatar           : "profile.PNG"
   bio              : ""
-  location         : "Mexico, MX"
+  location         : "Cambridge, MA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "isaacmezalopez@g.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://math.stackexchange.com/users/92822/chazz
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
