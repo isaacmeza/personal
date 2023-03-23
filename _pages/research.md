@@ -17,7 +17,7 @@ My research interests are located in the intersection of Empirical Economics, Ap
 
 #### [Inference in Synthetic Control Methods using the Robust Wasserstein Profile function](https://isaacmeza.github.io/personal//files/scm_inference.pdf)
 
-#### Does Seguro Popular Reduce Formal Jobs? <sub> Joint work with Enrique Seira Bejarano, Eduardo González-Pier and Eduardo Alcaraz. <sub>
+#### [Did Mexico’s Seguro Popular Universal Health Coverage Programme Really Reduce Formal Jobs?](https://www.wiego.org/publications/did-mexicos-seguro-popular-universal-health-coverage-programme-really-reduce-formal) WIEGO Working Paper No. 46. <sub> Joint work with Enrique Seira Bejarano, Eduardo González-Pier and Eduardo Alcaraz. <sub>
  
 ## Thesis
 
