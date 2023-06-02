@@ -11,7 +11,7 @@ My research interests are located in the intersection of Empirical Economics, Ap
 ## Working papers
 
 
-#### [The limits of self-commitment and private paternalism.](https://isaacmeza.github.io/personal//files/donde.pdf) [(OA)](https://isaacmeza.github.io/personal//files/OA_donde.pdf) <sub> Joint work with Francis DiTraglia, Craig McIntosh, Enrique Seira Bejarano and Joyce Sadka (in the review process) <sub>
+#### [The limits of self-commitment and private paternalism.](https://isaacmeza.github.io/personal//files/donde.pdf) [(OA)](https://isaacmeza.github.io/personal//files/OA_donde.pdf) <sub> Joint work with Francis DiTraglia, Craig McIntosh, Enrique Seira Bejarano and Joyce Sadka <sub>
 
 #### [Genericity of spaces with the extended García-Falset coefficient: $R(t,X)<1+t$ for some $t>0$](https://isaacmeza.github.io/personal//files/genericity_garcia_falset.pdf) 
 
