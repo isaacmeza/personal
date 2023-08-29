@@ -37,7 +37,7 @@ My research interests are located in the intersection of Empirical Economics, Ap
  
 ## Software
  
-#### [tot_tut](https://github.com/isaacmeza/tot_tut) : Stata implementation for estimation of ToT & TuT using the design in "The limits of self-commitment and private paternalism" [DiTraglia, McIntosh, Meza, Seira, Sadka](https://isaacmeza.github.io/personal//files/donde.pdf)
+#### [tot_tut](https://github.com/isaacmeza/tot_tut) : Stata implementation for estimation of ToT & TuT using the design in "The controlled choice design and private paternalism in pawnshop borrowing" [DiTraglia, McIntosh, Meza, Seira, Sadka](https://isaacmeza.github.io/personal//files/donde.pdf)
  
  
 ```
