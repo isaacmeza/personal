@@ -10,6 +10,7 @@ My research interests are located in the intersection of Empirical Economics, Ap
 
 ## Working papers
 
+#### [Nested Nonparametric Instrumental Variable Regression: Long Term, Mediated, and Time Varying Treatment Effects](https://doi.org/10.48550/arXiv.2112.14249) <sub> Joint work with Rahul Singh <sub>
 
 #### [The controlled choice design and private paternalism in pawnshop borrowing.](https://isaacmeza.github.io/personal//files/controlled_choice.pdf) <sub> Joint work with Francis DiTraglia, Craig McIntosh, Enrique Seira Bejarano and Joyce Sadka <sub>
 
