@@ -38,7 +38,7 @@ My research interests are located in the intersection of Empirical Economics, Ap
  
 ## Software
 
-#### [nnpiv](https://nnpiv.readthedocs.io/en/latest/#) : Python implementation of nested NPIV [Meza, Rahul](https://arxiv.org/abs/2112.14249). This package estimates nonparametrically nested moment conditions. 
+#### [nnpiv](https://nnpiv.readthedocs.io/en/latest/#) : Python implementation of nested NPIV [Meza, Singh](https://arxiv.org/abs/2112.14249). This package estimates nonparametrically nested moment conditions. 
 
  
 #### [tot_tut](https://github.com/isaacmeza/tot_tut) : Stata implementation for estimation of ToT & TuT using the design in "The controlled choice design and private paternalism in pawnshop borrowing" [DiTraglia, McIntosh, Meza, Seira, Sadka](https://isaacmeza.github.io/personal//files/controlled_choice.pdf)
