@@ -27,7 +27,7 @@ UGBA 101B - Walter A. Haas School of Business (Summer 2021)
 IEOR 166 - UC Berkeley (Spring 2021)
 
 ### Applied Stochastic Process I
-IEOR 263A - UC Berkeley (Fall 200)
+IEOR 263A - UC Berkeley (Fall 2020)
 
 ## ITAM
 ---
