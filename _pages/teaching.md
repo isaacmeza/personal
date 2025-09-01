@@ -12,7 +12,7 @@ author_profile: true
 ECON 2140 - Harvard University (Spring 2025)
 
 ### Principles of Econometrics
-ECON 2120 - Harvard University (Fall 2024)
+ECON 2120 - Harvard University (Fall 2024, Fall 2025)
 
 ## UC Berkeley
 ---
