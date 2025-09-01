@@ -12,7 +12,7 @@ My research interests are located in the intersection of Empirical Economics, Ap
 
 #### [Nested Nonparametric Instrumental Variable Regression](https://doi.org/10.48550/arXiv.2112.14249) <sub> Joint work with Rahul Singh <sub>
 
-#### [The controlled choice design and private paternalism in pawnshop borrowing.](https://isaacmeza.github.io/personal//files/controlled_choice.pdf) <sub> Joint work with Francis DiTraglia, Craig McIntosh, Enrique Seira Bejarano and Joyce Sadka <sub>
+#### [Structured Payment in Pawnshop Borrowing: Mandates vs. Choice.](https://isaacmeza.github.io/personal//files/controlled_choice.pdf) <sub> Joint work with Francis DiTraglia, Craig McIntosh, Enrique Seira Bejarano and Joyce Sadka <sub>
 
 #### [Genericity of spaces with the extended García-Falset coefficient: $R(t,X)<1+t$ for some $t>0$](https://isaacmeza.github.io/personal//files/genericity_garcia_falset.pdf) 
 
