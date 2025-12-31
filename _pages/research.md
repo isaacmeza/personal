@@ -10,8 +10,7 @@ My research interests are located in the intersection of Empirical Economics, Ap
 
 ## Working papers
 
-#### [Canonical correlation regression with noisy data](https://doi.org/10.48550/arXiv.2512.22697)
-<sub> Joint work with Rahul Singh <sub>
+#### [Canonical correlation regression with noisy data](https://doi.org/10.48550/arXiv.2512.22697) <sub> Joint work with Rahul Singh <sub>
 
 #### [Nested Nonparametric Instrumental Variable Regression](https://doi.org/10.48550/arXiv.2112.14249) <sub> Joint work with Rahul Singh <sub>
 
