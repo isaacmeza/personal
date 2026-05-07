@@ -1,3 +1,11 @@
 _site/
 
+# macOS metadata files
+.DS_Store
+**/.DS_Store
+
+# Local image/archive files
+/images/mezaIsaac-220908-0161.jpg
+/images/mezaIsaac.zip
+/images/photo1652302398.jpeg
 images/mezaIsaac/
