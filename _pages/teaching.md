@@ -6,36 +6,41 @@ author_profile: true
 ---
 
 ## Harvard University
----
 
 ### Econometric Methods
-ECON 2140 - Harvard University (Spring 2025)
+<small>Teaching Fellow, ECON 2140, Department of Economics.</small>  
+Spring 2025; Spring 2026.
 
 ### Principles of Econometrics
-ECON 2120 - Harvard University (Fall 2024, Fall 2025)
+<small>Teaching Fellow, ECON 2120, Department of Economics.</small>  
+Fall 2024; Fall 2025.
 
-## UC Berkeley
----
+## University of California, Berkeley
 
 ### Introduction to Economics
-Econ 1 - UC Berkeley (Summer 2021)
+<small>Graduate Student Instructor, ECON 1.</small>  
+Summer 2021.
 
 ### Macroeconomic Analysis for Business Decisions
-UGBA 101B - Walter A. Haas School of Business (Summer 2021)
+<small>Graduate Student Instructor, UGBA 101B, Walter A. Haas School of Business.</small>  
+Summer 2021.
 
 ### Decision Analytics
-IEOR 166 - UC Berkeley (Spring 2021)
+<small>Graduate Student Instructor, IEOR 166.</small>  
+Spring 2021.
 
-### Applied Stochastic Process I
-IEOR 263A - UC Berkeley (Fall 2020)
+### Applied Stochastic Processes
+<small>Graduate Student Instructor, IEOR 263A.</small>  
+Fall 2020.
 
-## ITAM
----
+## Earlier Teaching
 
 ### Intermediate Macroeconomics
-ITAM (2014-2019)
+<small>Teaching Assistant, ITAM.</small>  
+2014--2019.
 
 ### Abstract Algebra
-ITAM (Spring 2014)
+<small>Teaching Assistant, ITAM.</small>  
+Spring 2014.
 
 {% include base_path %}
