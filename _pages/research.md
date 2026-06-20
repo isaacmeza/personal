@@ -42,7 +42,7 @@ My research interests are in causal inference, nonparametric and high-dimensiona
 ### Reports and Other Writing
 
 - <span style="font-size: 0.9em;">[Did Mexico’s Seguro Popular Universal Health Coverage Programme Really Reduce Formal Jobs?](https://www.wiego.org/publications/did-mexicos-seguro-popular-universal-health-coverage-programme-really-reduce-formal)</span>
-<small>Enrique Seira Bejarano, Eduardo González-Pier, Eduardo Alcaraz, and Isaac Meza. WIEGO Working Paper No. 46.</small>
+<small>Enrique Seira, Isaac Meza, Eduardo González-Pier and Eduardo Alcaraz Prous. WIEGO Working Paper No. 46.</small>
 
 ## Thesis
 
