@@ -22,8 +22,8 @@ My research interests are in causal inference, nonparametric and high-dimensiona
 
 ### Experimental Design and Applied Microeconomics
 
-- <span style="font-size: 0.9em;">[Structured Payment in Pawnshop Borrowing: Mandates vs. Choice](https://isaacmeza.github.io/personal/files/controlled_choice.pdf)</span>
-<small>Francis DiTraglia, Craig McIntosh, Isaac Meza, Enrique Seira Bejarano, and Joyce Sadka. R&amp;R, <em>Review of Economic Studies</em>.</small>
+- <span style="font-size: 0.9em;">[Structured Payment in Pawnshop Borrowing: Mandates vs. Choice](https://doi.org/10.48550/arXiv.2608.13775)</span>
+<small>Francis DiTraglia, Craig McIntosh, Isaac Meza, Enrique Seira Bejarano, and Joyce Sadka. Forthcoming, <em>Review of Economic Studies</em>.</small>
 
 ### Earlier Research and Related Projects
 
